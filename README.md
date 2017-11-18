@@ -1,5 +1,9 @@
 # Hands-On-Machine-Learning
-Repo with example code from the Awesome book "Hands-On Machine Learning with Scikit-Learn and Tensorflow" and some personal commentating 
+This repo contains example code from the awesome book "Hands-On Machine Learning with Scikit-Learn and Tensorflow" and some annotations/examples of my own.
+
+This is for learning purposes only. I am starting out with Machine Learning (and loving every second of it) and would love to share my thoughts with other people that may read the book and have similar questions. That is the main reason why this repo public. It would be really cool if could help even one person with my commentary.
+
+Hopefully, this will be the start of a compendium of content that anyone can use to further their knowledge in Machine Learning and Artificial Intelligence.
 
 # Disclamer:
 This code is mildly adapted from the original textbook example code. I do not own any right to this code. If you are interested to learn more, <a href="http://shop.oreilly.com/product/0636920052289.do" target="_blank">please buy the book</a>, and support the author. 
