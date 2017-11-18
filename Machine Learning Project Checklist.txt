@@ -2,7 +2,7 @@
 
 2) Get Data
 
-3) Explore the datato gain insights
+3) Explore the data to gain insights
 
 4) Prepare tha data to better understand the underlying data patterns to Machine Learning algorithms
 
