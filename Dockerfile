@@ -1,7 +1,14 @@
 FROM tensorflow/tensorflow:latest-py3
 
-COPY /requirements.txt /tmp
+COPY requirements.txt /tmp
 
-RUN pip install /tmp/requirements
+RUN pip install -r /tmp/requirements.txt
 
-CMD ["/bin/bash"]
+# TensorBoard
+EXPOSE 6006
+# IPython
+EXPOSE 8888
+
+WORKDIR "/notebooks"
+
+CMD ["/run_jupyter.sh", "--allow-root"]
