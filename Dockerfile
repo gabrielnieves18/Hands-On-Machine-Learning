@@ -6,7 +6,8 @@ RUN pip install -r /tmp/requirements.txt
 
 # TensorBoard
 EXPOSE 6006
-# IPython
+
+# Jupyter Notebook
 EXPOSE 8888
 
 WORKDIR "/notebooks"
