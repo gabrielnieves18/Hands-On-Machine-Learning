@@ -27,4 +27,4 @@ If you would like to learn more about Docker (and you should!) visit their <a hr
 
 We are using google's <a href="https://hub.docker.com/r/tensorflow/tensorflow/" target="_blank">Tensorflow Docker container</a>. It contains most of the dependencies that we will need; including Jupyter Notebooks, Scikit-Learn, and Tensorflow.
 
-If you have extra dependencies that this container doesnt meet, follow this <a href="" target="_blank">guide</a> to add extra python dependencies.
+If you have extra dependencies that this container doesnt meet, follow this <a href="https://github.com/gabrielnieves18/Hands-On-Machine-Learning/blob/master/docs/Add%20dependencies.md" target="_blank">guide</a> to add extra python dependencies.
