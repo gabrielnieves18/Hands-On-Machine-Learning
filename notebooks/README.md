@@ -5,7 +5,7 @@ If you dont already have docker install, you can learn how to right <a href="htt
 
 Once you have docker install, execute the following command to run a Jupyer notebook on your localhost:
 
-```
+```bash
 docker run -it -p 8888:8888 --rm \
 -v <path/to/root/dir>/notebooks:/notebooks:rw \
 tensorflow/tensorflow:latest-py3
